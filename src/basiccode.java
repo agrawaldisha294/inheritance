@@ -34,7 +34,8 @@ class basiccode{
         subob.showk();
         System.out.println();
         System.out.println("sum of i,j, and k in subob: ");
-        subob.sum();
+
+        //disha agrawal
     }
 }
 
